@@ -1,8 +1,24 @@
 <h1 align="center" id="title">Pointergeist's Human Cursor</h1>
 
+<p align="center" id="description">Pointergeists's Human Cursor is an emulator in Python for Human mouse/ cursor trajectory motion data based on mathematical priciples derived from collected datasets + human motion</p>
+
+<h2 align="center" id="Available">Pointergeit's H-C emulator is only privately available</h2>
+<h3 align="center" id="Available">API access ready for tests</h3>
+<h3 align="center" id="Available">For any inquires, reach out via one of the listed contact methods</h3>
+
+
+
 [Watch the video](https://github.com/user-attachments/assets/485d8a88-d588-44f3-a9a6-4fe8260b04cf)
 
-<p id="description">Pointergeists's Human Cursor is an emulator for Human mouse/ cursor trajectory motion data based on mathematical priciples derived from collected datasets + human motion</p>
+<h1>Content:</h1>
+
+- [Features](#features)
+- [Image Showcase](#image-showcase)
+- [Video Showcase](#video-showcase)
+- [Contact Information](#contact-information)
+
+
+
 
 <h1>Features:</h1>
 
@@ -66,6 +82,38 @@ https://github.com/user-attachments/assets/db345ae7-6d5e-4eac-b3dc-5fdc55e158d5
 <h3>Eventim:</h3>
 
 https://github.com/user-attachments/assets/b1143490-d3a2-4eed-8916-e784d78d4471
+
+
+
+
+<h1>Contact Information:</h1>
+Please only sent inquiries on bases of the following template:
+
+Field of use:
+
+Utilization intention:
+
+Reach:
+
+Filled tamplate example:
+
+Field of use:
+Bypassing anti bot systems.
+
+Utilization intention:
+Recaptcha Solver service.
+
+Reach:
+Estimate 50 users.
+
+
+
+
+<ul>
+  <li>Discord: https://discordapp.com/user/1311056999240437801
+  <li>Telegram: https://t.me/pointergeist
+  <li>E-Mail: tmotion614@gmail.com 
+</ul>
 
 
 
