@@ -65,7 +65,7 @@ Trajectory & Velocity Profile, frequ=40, sv=1 <br>
 
 # Video Showcase:
 Following; several trajectory simulations for different Sign Up processes.  
-Additional demos can be added per request. DM on [Discord](https://discordapp.com/user/1311056999240437801).  
+Additional demos can be added per request. DM on [Discord](https://discord.com/users/1311056999240437801).  
 
 <h3>Discord:</h3>
 
@@ -106,7 +106,7 @@ Please only send inquiries on basis of the following template:
   Looking forward to your reply!
 
 ### Contact Channels:
-- [Discord](https://discordapp.com/user/1311056999240437801)
+- [Discord](https://discord.com/users/1311056999240437801)
 - [Telegram](https://t.me/pointergeist)
 - [E-Mail](mailto:tmotion614@gmail.com)
 
