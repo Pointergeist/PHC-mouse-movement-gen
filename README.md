@@ -41,7 +41,7 @@
 </ul>
 
 <h1>Image Showcase:</h1>
-Follwing, two trajectory example plots.
+Follwing; three trajectory example plots.
 
 <h3>Example 1:</h3>
 Trajectory & Velocity Profile, frequ=100, sv=1 <br>
@@ -63,9 +63,9 @@ Trajectory & Velocity Profile, frequ=40, sv=1 <br>
 
 
 
-<h1>Video Showcase:</h1>
-Follwing, several trajectory simulations for different Sign Up processes.
-Additional demos can be added per request. DM @pointergeist on Discord.
+# Video Showcase:
+Following; several trajectory simulations for different Sign Up processes.  
+Additional demos can be added per request. DM on [Discord](https://discordapp.com/user/1311056999240437801).  
 
 <h3>Discord:</h3>
 
