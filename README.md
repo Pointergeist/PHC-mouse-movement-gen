@@ -15,7 +15,7 @@
 - [Features](#features)
 - [Image Showcase](#image-showcase)
 - [Video Showcase](#video-showcase)
-- [Contact Information](#contact-information)
+- [Contact Information](#contact-channels)
 
 
 
