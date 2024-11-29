@@ -88,6 +88,7 @@ https://github.com/user-attachments/assets/b1143490-d3a2-4eed-8916-e784d78d4471
 
 <h1>Contact Information:</h1>
 Please only send inquiries on basis of the following template:
+
 ### Template:
 - **Organisation**:
 - **Field of Use**:
