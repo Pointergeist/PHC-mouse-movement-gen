@@ -87,33 +87,30 @@ https://github.com/user-attachments/assets/b1143490-d3a2-4eed-8916-e784d78d4471
 
 
 <h1>Contact Information:</h1>
-Please only sent inquiries on bases of the following template:
+Please only send inquiries on basis of the following template:
 
-Field of use:
+### Template:
+- **Organisation**:
+- **Field of Use**:
+- **Utilization Intention**:
+- **Reach**:
+- **Message**:
 
-Utilization intention:
+### Filled Template Example:
+- **Organisation**: WeSolveReCap.com
+- **Field of Use**: Bypassing anti-bot systems.
+- **Utilization Intention**: Recaptcha Solver service.
+- **Reach**: Estimated 50 users.
+- **Message**: Hello Pointergeist, I am John Doe from WeSolveReCap.  
+  We would like to run some tests with your motion data emulator solution. How can we get access to the api?  
+    
+  Looking forward to your reply!
 
-Reach:
+### Contact Channels:
+- [Discord](https://discordapp.com/user/1311056999240437801)
+- [Telegram](https://t.me/pointergeist)
+- [E-Mail](mailto:tmotion614@gmail.com)
 
-Filled tamplate example:
-
-Field of use:
-Bypassing anti bot systems.
-
-Utilization intention:
-Recaptcha Solver service.
-
-Reach:
-Estimate 50 users.
-
-
-
-
-<ul>
-  <li>Discord: https://discordapp.com/user/1311056999240437801
-  <li>Telegram: https://t.me/pointergeist
-  <li>E-Mail: tmotion614@gmail.com 
-</ul>
 
 
 
