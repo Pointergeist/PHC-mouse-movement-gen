@@ -3,7 +3,7 @@
 <p align="center" id="description">Pointergeists's Human Cursor is an emulator in Python for Human mouse/ cursor trajectory motion data based on mathematical priciples derived from collected datasets + human motion</p>
 
 <h2 align="center" id="Available">Pointergeit's H-C emulator is only privately available</h2>
-<h1 align="center" id="Available">API access ready for tests</h1>
+<h1 align="center" id="Available">Free API access ready for tests</h1>
 <h3 align="center" id="Available">For any inquires, reach out via one of the listed contact channels </h3>
 
 
