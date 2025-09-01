@@ -63,11 +63,14 @@ PHC is privately available to protect it's concept and method. To get started wi
 - **What are common use cases?**  
   Anti-bot testing, automation, UX research, and more.
 - **What anti bots are supported?**
+  
   Hcap, funcap, recap, akamai, perimeterx and datadome.
 - **Is there help with integration?**
+  
   Yes, you will receive individual help to get PHC
   running for your use case.
 - **Will I get ongoing support after integration?**
+  
   Ongoing support, even after successful integration is given.
 
 ## Contact Information
