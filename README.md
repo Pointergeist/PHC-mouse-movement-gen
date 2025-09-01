@@ -55,23 +55,39 @@ PHC is privately available to protect it's concept and method. To get started wi
 2. Receive a trial API key and documentation
 3. Integrate with your existing application
 
-## FAQ
+
+## Frequently Asked Questions (FAQ)
+
 - **What is Pointergeist's Human Cursor?**  
-  A script to generate realistic human-like mouse cursor trajectories/ mouse movements to bypass antibots for scraping.
+  Pointergeist's Human Cursor (PHC) is a script that generates realistic human-like mouse cursor trajectories. It’s designed to help strength test anti-bot systems for web scraping, automation, and UX research by mimicking natural human mouse movements.
+
 - **Who can access the API?**  
-  Contact us to request private access.
+  The API is available for private testing. Request access by submitting an inquiry via our [Contact Information](#contact-information).
+
 - **What are common use cases?**  
-  Anti-bot testing, automation, UX research, and more.
-- **What anti bots are supported?**
-  
-  Hcap, funcap, recap, akamai, perimeterx and datadome.
-- **Is there help with integration?**
-  
-  Yes, you will receive individual help to get PHC
-  running for your use case.
-- **Will I get ongoing support after integration?**
-  
-  Ongoing support, even after successful integration is given.
+  - Anti-bot bypass
+  - WebScraping 
+  - Automation testing  
+  - UX research and simulation  
+  - Behavioral analysis for mouse movement
+
+- **Which anti-bot systems are supported?**  
+  PHC supports bypassing the following anti-bot systems:  
+  - hCaptcha  
+  - FunCAPTCHA  
+  - reCAPTCHA  
+  - Akamai  
+  - PerimeterX  
+  - DataDome  
+
+- **Is support provided for integration?**  
+  Yes, we offer personalized assistance to help you integrate PHC into your specific use case.
+
+- **Will I receive ongoing support after integration?**  
+  Absolutely, we provide continuous support post-integration to address any issues and ensure optimal performance for your application.
+
+Have more questions? Reach out via our [Contact Information](#contact-information).
+
 
 ## Contact Information
 **Ready to test the Human Cursor API? Submit your inquiry.
