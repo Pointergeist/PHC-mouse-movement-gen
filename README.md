@@ -3,8 +3,13 @@
 Pointergeist's Human Cursor is a Python-based emulator that generates realistic human-like mouse cursor trajectories. Built on mathematical models derived from real human motion datasets
 (sigma log normal), it offers customizable trajectory and velocity profiles for applications like anti-bot testing, automation, and UX research.
 
-**Interested in testing our API? Contact us via:* [Discord](https://discord.com/users/1311056999240437801)* [Email](mailto:tmotion614@gmail.com)*
-[Telegram](https://t.me/Pointergeist)**
+**Interested in testing our API? Contact us via:
+ 
+[Discord](https://discord.com/users/1311056999240437801)
+
+[Email](mailto:tmotion614@gmail.com)
+
+[Telegram](https://t.me/Pointergeist)
 
 
 ## Table of Contents
