@@ -1,5 +1,4 @@
 # Pointergeist's Human Cursor: 
-
 Mouse Movement Generator for Human-Like Mouse Trajectories
 
 
