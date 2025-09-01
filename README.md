@@ -51,7 +51,7 @@ Request additional demos via [Discord](https://discord.com/users/131105699924043
 ## Getting Started
 PHC is privately available to protect it's concept and method. To get started with your access to PHC:
 1. Request access via [Discord](https://discord.com/users/1311056999240437801), [Email](mailto:tmotion614@gmail.com) or
-[Telegram] (t.me/Pointergeist).**
+[Telegram](https://t.me/Pointergeist)
 2. Receive a trial API key and documentation.
 3. Integrate with your existing application.
 
