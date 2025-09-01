@@ -52,8 +52,8 @@ Request additional demos via [Discord](https://discord.com/users/131105699924043
 PHC is privately available to protect it's concept and method. To get started with your access to PHC:
 1. Request access via [Discord](https://discord.com/users/1311056999240437801), [Email](mailto:tmotion614@gmail.com) or
 [Telegram](https://t.me/Pointergeist)
-2. Receive a trial API key and documentation.
-3. Integrate with your existing application.
+2. Receive a trial API key and documentation
+3. Integrate with your existing application
 
 ## FAQ
 - **What is Pointergeist's Human Cursor?**  
@@ -63,7 +63,7 @@ PHC is privately available to protect it's concept and method. To get started wi
 - **What are common use cases?**  
   Anti-bot testing, automation, UX research, and more.
 - **What anti bots are supported?**
-  Hcap, funcap, recap, akamai, perimeterx and datadome
+  Hcap, funcap, recap, akamai, perimeterx and datadome.
 - **Is there help with integration?**
   Yes, you will receive individual help to get PHC
   running for your use case.
