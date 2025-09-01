@@ -1,4 +1,7 @@
-# Pointergeist's Human Cursor: Mouse Movement Generator for Human-Like Mouse Trajectories
+# Pointergeist's Human Cursor: 
+
+Mouse Movement Generator for Human-Like Mouse Trajectories
+
 
 Pointergeist's Human Cursor is a Python-based emulator that generates realistic human-like mouse cursor trajectories. Built on mathematical models derived from real human motion datasets
 (sigma log normal), it offers customizable trajectory and velocity profiles for applications like anti-bot testing, automation, and UX research.
@@ -71,7 +74,7 @@ PHC is privately available to protect it's concept and method. To get started wi
   - UX research and simulation  
   - Behavioral analysis for mouse movement
 
-- **Which anti-bot systems are supported?**  
+- **Which anti-bots are supported?**  
   PHC supports bypassing the following anti-bot systems:  
   - hCaptcha  
   - FunCAPTCHA  
@@ -84,7 +87,7 @@ PHC is privately available to protect it's concept and method. To get started wi
   Yes, we offer personalized assistance to help you integrate PHC into your specific use case.
 
 - **Will I receive ongoing support after integration?**  
-  Absolutely, we provide continuous support post-integration to address any issues and ensure optimal performance for your application.
+  Absolutely, we provide continuous support post-integration to address any issues and ensure optimal performance.
 
 Have more questions? Reach out via our [Contact Information](#contact-information).
 
