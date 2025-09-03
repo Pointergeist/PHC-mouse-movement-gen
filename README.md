@@ -42,10 +42,10 @@ Pointergeist's Human Cursor is a Python-based emulator that generates realistic 
 
 ## Video Showcase
 Multiple simulations of PHC showcasing bypass abilities for Discord, X, Kohls and Eventim:
-- [Discord Demo](https://youtube.com/your-video-link)
-- [Twitter Demo](https://youtube.com/your-video-link)
-- [Kohls Demo](https://youtube.com/your-video-link)
-- [Eventim Demo](https://youtube.com/your-video-link)
+- [Discord Demo](https://github.com/user-attachments/assets/584fbf21-9f73-450a-a27d-83885f0b0bce)
+- [Twitter/ X Demo](https://github.com/user-attachments/assets/f5eb37bb-3498-4039-a1ca-027fab0a099f)
+- [Kohls Demo](https://github.com/user-attachments/assets/db345ae7-6d5e-4eac-b3dc-5fdc55e158d5)
+- [Eventim Demo](https://github.com/user-attachments/assets/b1143490-d3a2-4eed-8916-e784d78d4471)
 
 Request additional demos via [Discord](https://discord.com/users/1311056999240437801).
 
